@@ -55,3 +55,7 @@ https://chromedriver.chromium.org/downloads 에서 자신의 버전과 맞는걸
 beautifulsoup4 4.11.1
 openpyxl 3.1.0  
 Pillow-9.4.0
+
+## 동작화면
+
+![run](https://user-images.githubusercontent.com/86402585/216768037-075a2fc9-7a0a-4435-886e-9c19a297567d.gif)
